@@ -1,0 +1,6 @@
+Hello. Welcome to lunar drift calculator!
+Distance of earth to moon in year 2014 is406547000meters.
+Distance of earth to moon in year1841was406546993meters.
+History: In 1841 when the Italian navigator Amerigo Vespucci recognized the South American continent.
+Difference between moon in year 2014  and year1841is-6.574meters.
+Done!
